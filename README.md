@@ -289,7 +289,7 @@ Prodigy WorkforceOS is developed and maintained by Prodigy Tech Hub, a technolog
 
 ## Contact
 
-🌐 https://prodigytechhub.com
+🌐 https://hr.prodigytechhub.com
 
 📧 [admin@prodigytechhub.com](mailto:admin@prodigytechhub.com)
 
